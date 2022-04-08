@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4a469e7f830c56644b0d8adc6bdc0eb6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberfall
+  fontNames:
+  - Cyberfall
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0a735826eac839468971a9e59e60671, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
